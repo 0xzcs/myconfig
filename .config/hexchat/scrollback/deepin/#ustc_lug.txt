@@ -1,0 +1,8 @@
+T 1513139609 19*	 正在 22#ustc_lug 频道里聊天
+T 1513139609 22*	 22#ustc_lug的主题是：欢迎来到 USTC Linux User Group IRC 频道 | 官网: https://lug.ustc.edu.cn | 消息超过3行请使用 https://bpaste.net 等第三方服务
+T 1513139609 22*	 26cuihao!~cuihao@2001:da8:d800:503:2ad2:44ff:fe3f:2e87 已将主题设置为 22#ustc_lug (24Mon Aug 17 23:28:07 2015)
+T 1513139610 22*	 频道 22#ustc_lug url: 24lug.ustc.edu.cn
+T 1513139829 24*	SilverRainZ 已退出(Remote host closed the connection)
+T 1513139848 23*	SilverRainZ (~Srain@222.128.2.10023) 已进入
+T 1513139876 Python interface unloaded
+T 1513139876 FiSHLiM plugin unloaded

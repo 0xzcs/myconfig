@@ -1,0 +1,25 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="ANTIALIASING_ENABLED" type="int">0</pref>
+	<pref name="BLOOM_ENABLED" type="int">1</pref>
+	<pref name="DOF_ENABLED" type="int">1</pref>
+	<pref name="MAILLISTSIGNUP" type="int">1</pref>
+	<pref name="SSAO_ENABLED" type="int">0</pref>
+	<pref name="SUNSHAFTS_ENABLED" type="int">1</pref>
+	<pref name="Screenmanager Is Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="SuggestedQualityLevel" type="int">3</pref>
+	<pref name="TARGET_FPS" type="int">-1</pref>
+	<pref name="UnityGraphicsQuality" type="int">3</pref>
+	<pref name="UnitySelectMonitor" type="int">-1</pref>
+	<pref name="audioMusic" type="float">1</pref>
+	<pref name="audioSFX" type="float">1</pref>
+	<pref name="audioVoice" type="float">1</pref>
+	<pref name="cInput_axis" type="string">TW92ZSBYKk1vdmUgWSojMCozKiMxKjIqIzI=</pref>
+	<pref name="cInput_count" type="int">18</pref>
+	<pref name="cInput_defaults" type="string">TGVmdCpSaWdodCpVcCpEb3duKkF0dGFjaypTdHVuKkNvdW50ZXIqRG9kZ2UqV2VhcG9uKkFydGlmYWN0KlBhdXNlKkludmVudG9yeSpOZXh0KlByZXYqSW5mbypGaWxsIERlY2sqQ29uZmlybSpDYW5jZWwqI0EqRCpXKlMqTW91c2UwKk1vdXNlMSpRKlNwYWNlKkFscGhhMSpBbHBoYTIqRXNjYXBlKkkqUGFnZURvd24qUGFnZVVwKk1vdXNlMSpGKlJldHVybipUYWIqI05vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKiNBKkQqVypTKk1vdXNlMCpNb3VzZTEqUSpTcGFjZSpBbHBoYTEqQWxwaGEyKkVzY2FwZSpJKlBhZ2VEb3duKlBhZ2VVcCpNb3VzZTEqRipSZXR1cm4qVGFiKiNOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSpOb25lKk5vbmUqTm9uZSo=</pref>
+	<pref name="cInput_dubl" type="string">VHJ1ZQ==</pref>
+	<pref name="cInput_indAxDead" type="string">MC4wMDEqMC4wMDEq</pref>
+	<pref name="cInput_indAxGrav" type="string">MyozKg==</pref>
+	<pref name="cInput_indAxSens" type="string">MyozKg==</pref>
+</unity_prefs>

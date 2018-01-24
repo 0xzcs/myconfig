@@ -1,0 +1,17 @@
+T 1511982274 19*	 正在 22#deepin 频道里聊天
+T 1511982274 22*	 22#deepin的主题是：Welcome to Deepin IRC channel! Deepin 15 alreay been released, please download from http://tiny.cc/deepin15dl and enjoy it! The public IRC log is here http://tiny.cc/deepinIRClog
+T 1511982274 22*	 26s991533!~s991533@unaffiliated/s991533 已将主题设置为 22#deepin (24Sun Jan 10 00:38:51 2016)
+T 1511982285 -18ChanServ-	[#deepin] Hello. Welcome to #deepin. Deepin 2014 already released, plz download it from a nearby mirror(http://tiny.cc/deepinDL) or sourceforge(http://tiny.cc/DP_2014_SF). Welcome to follow us on http://tiny.cc/deepinFB and then you will not miss any news!
+T 1511953574 Python interface unloaded
+T 1511953574 FiSHLiM plugin unloaded
+T 1513139263 19*	 正在 22#deepin 频道里聊天
+T 1513139263 22*	 22#deepin的主题是：Welcome to Deepin IRC channel! Deepin 15 alreay been released, please download from http://tiny.cc/deepin15dl and enjoy it! The public IRC log is here http://tiny.cc/deepinIRClog
+T 1513139263 22*	 26s991533!~s991533@unaffiliated/s991533 已将主题设置为 22#deepin (24Sun Jan 10 00:38:51 2016)
+T 1513139263 -18ChanServ-	[#deepin] Hello. Welcome to #deepin. Deepin 2014 already released, plz download it from a nearby mirror(http://tiny.cc/deepinDL) or sourceforge(http://tiny.cc/DP_2014_SF). Welcome to follow us on http://tiny.cc/deepinFB and then you will not miss any news!
+T 1513139317 20*	 已断开连接 (20)
+T 1513139340 22*	26tardis23333 在上 22tardis23333 设置了 24+Z 模式
+T 1513139340 22*	26tardis23333 在上 22tardis23333 设置了 24+i 模式
+T 1513139345 19*	 正在 22#deepin 频道里聊天
+T 1513139345 22*	 22#deepin的主题是：Welcome to Deepin IRC channel! Deepin 15 alreay been released, please download from http://tiny.cc/deepin15dl and enjoy it! The public IRC log is here http://tiny.cc/deepinIRClog
+T 1513139345 22*	 26s991533!~s991533@unaffiliated/s991533 已将主题设置为 22#deepin (24Sun Jan 10 00:38:51 2016)
+T 1513139346 -18ChanServ-	[#deepin] Hello. Welcome to #deepin. Deepin 2014 already released, plz download it from a nearby mirror(http://tiny.cc/deepinDL) or sourceforge(http://tiny.cc/DP_2014_SF). Welcome to follow us on http://tiny.cc/deepinFB and then you will not miss any news!

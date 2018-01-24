@@ -1,0 +1,27 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon></icon>
+	<name>在此打开终端</name>
+	<unique-id>1516519554884573-2</unique-id>
+	<command>exec lilyterm %d</command>
+	<description></description>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>使用potplayer打开</name>
+	<unique-id>1516521691909364-6</unique-id>
+	<command>wine /home/tardis/program/PotPlayer/PotPlayerMini.exe %f</command>
+	<description></description>
+	<patterns>*</patterns>
+	<audio-files/>
+	<video-files/>
+</action>
+</actions>
