@@ -1,9 +1,0 @@
-open_with s
-delete 
-open_with 
-
-cut
-delete
-copy
-P
-paste
